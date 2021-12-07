@@ -10,4 +10,10 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_formations">Formations</string>
+    <string name="menu_skills">Competences</string>
+    <string name="menu_personal_qualities">Qualites Personnelle</string>
+    <string name="menu_xp">Experiences</string>
+    <string name="menu_contact">References</string>
+    <string name="menu_hobby">Centre D\'interet</string>
 </resources>
