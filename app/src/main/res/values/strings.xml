@@ -7,16 +7,22 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_home">HOME</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_formations">Formations</string>
-    <string name="menu_skills">Competences</string>
-    <string name="menu_personal_qualities">Qualites Personnelle</string>
-    <string name="menu_xp">Experiences</string>
-    <string name="menu_contact">References</string>
-    <string name="menu_hobby">Centre D\'interet</string>
+    <string name="menu_formations">FORMATIONS</string>
+    <string name="menu_skills">COMPETENCES</string>
+    <string name="menu_personal_qualities">QUALITES PERSONNELLE</string>
+    <string name="menu_xp">EXPERIENCES</string>
+    <string name="menu_contact">REFERENCES</string>
+    <string name="menu_hobby">CENTRE D\'INTERET</string>
 
     <string name="nom">Jacques Etienne NDIAYE</string>
     <string name="profession">DEVELOPPEUR WEB, COMPTABLE</string>
+
+    <string name="description">Pour ceux qui ne me connaisse pas, me voici, Jacques Etienne Ndiaye AKA @Yasral dans le domaine du developpement web.
+Pour la petite histoire, j’ai d’abord etudier la comptabilite avant de me lancer dans le developpement web. J’ai appris les bases en HTML, CSS, JS, sur youtube, openclassroom... .
+En 2020, j’ai decide de faire une reconversion professionnelle, et j’ai suivi la formation de SIMPLON SENEGAL en developpement web et mobile. En resume, je suis polyvalent car disposant de competences en comptabilite et en developpement web. Si vous desirez discuter avec moi vous  pouvez me trouver sur Facebook, Instagram je me ferai un plaisir de repondre a toute vos questions d’ici la portee vous bien et prenez bien soin de vous.</string>
+
+    <string name="project">PROJETS</string>
 </resources>
