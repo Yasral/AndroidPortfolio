@@ -16,4 +16,7 @@
     <string name="menu_xp">Experiences</string>
     <string name="menu_contact">References</string>
     <string name="menu_hobby">Centre D\'interet</string>
+
+    <string name="nom">Jacques Etienne NDIAYE</string>
+    <string name="profession">DEVELOPPEUR WEB, COMPTABLE</string>
 </resources>
